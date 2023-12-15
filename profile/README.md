@@ -1,6 +1,6 @@
 # [Maker's Market](https://makers-market.pt/)   
 
-![logo](logo.png)
+![logo](https://maker-s-market.github.io/documentation/img/ES-Logo.png)
 # Team Members
 
 | # | Name | NMec |
@@ -21,7 +21,7 @@
 
 # Links
 
-### <img src="logo.png" alt="image" width="30" height="auto"> [Website](https://makers-market.pt/)
+### <img src="https://maker-s-market.github.io/documentation/img/ES-Logo.png" alt="image" width="30" height="auto"> [Website](https://makers-market.pt/)
 ### <img src="https://docusaurus.io/img/docusaurus_keytar.svg" alt="image" width="30" height="auto"> [Documentation](https://maker-s-market.github.io/documentation)
 ### <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="image" width="30" height="auto"> [API Documentation](https://makers-market.pt/api/docs)
 ### <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="image" width="30" height="auto"> [Jira](https://es-proj.atlassian.net/jira/software/projects/KAN/boards/1)
