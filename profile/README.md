@@ -1,6 +1,7 @@
 # [Maker's Market](https://makers-market.pt/)   
 
-![logo](logo.png)
+<img src="logo.png" alt="image" width="200" height="auto"> 
+
 # Team Members
 
 | # | Name | NMec |
